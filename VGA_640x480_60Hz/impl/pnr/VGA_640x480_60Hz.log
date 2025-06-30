@@ -1,0 +1,29 @@
+Reading netlist file: "C:\Users\erikm\Documents\FPGAprosjekter\Primer25K\VGA_640x480_60Hz\impl\gwsynthesis\VGA_640x480_60Hz.vg"
+Parsing netlist file "C:\Users\erikm\Documents\FPGAprosjekter\Primer25K\VGA_640x480_60Hz\impl\gwsynthesis\VGA_640x480_60Hz.vg" completed
+Processing netlist completed
+Reading constraint file: "C:\Users\erikm\Documents\FPGAprosjekter\Primer25K\VGA_640x480_60Hz\src\VGA_640x480_60Hz.cst"
+Physical Constraint parsed completed
+Running placement......
+[10%] Placement Phase 0 completed
+[20%] Placement Phase 1 completed
+[30%] Placement Phase 2 completed
+[50%] Placement Phase 3 completed
+Running routing......
+[60%] Routing Phase 0 completed
+[70%] Routing Phase 1 completed
+[80%] Routing Phase 2 completed
+[90%] Routing Phase 3 completed
+Running timing analysis......
+[95%] Timing analysis completed
+Placement and routing completed
+Bitstream generation in progress......
+Bitstream generation completed
+Running power analysis......
+[100%] Power analysis completed
+Generate file "C:\Users\erikm\Documents\FPGAprosjekter\Primer25K\VGA_640x480_60Hz\impl\pnr\VGA_640x480_60Hz.power.html" completed
+Generate file "C:\Users\erikm\Documents\FPGAprosjekter\Primer25K\VGA_640x480_60Hz\impl\pnr\VGA_640x480_60Hz.pin.html" completed
+Generate file "C:\Users\erikm\Documents\FPGAprosjekter\Primer25K\VGA_640x480_60Hz\impl\pnr\VGA_640x480_60Hz.rpt.html" completed
+Generate file "C:\Users\erikm\Documents\FPGAprosjekter\Primer25K\VGA_640x480_60Hz\impl\pnr\VGA_640x480_60Hz.rpt.txt" completed
+Generate file "C:\Users\erikm\Documents\FPGAprosjekter\Primer25K\VGA_640x480_60Hz\impl\pnr\VGA_640x480_60Hz.tr.html" completed
+Mon Jun 30 21:32:36 2025
+

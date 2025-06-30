@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Module name="top" T_Register="34(0)" T_Alu="22(0)" T_Lut="108(0)">
+ <SubModule name="u_pll"/>
+ <SubModule name="u_vga" Register="34" Alu="22" Lut="108" T_Register="34(34)" T_Alu="22(22)" T_Lut="108(108)"/>
+</Module>
