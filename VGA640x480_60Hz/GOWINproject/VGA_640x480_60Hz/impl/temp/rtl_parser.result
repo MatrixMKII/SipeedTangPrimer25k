@@ -1,0 +1,28 @@
+[
+ {
+  "InstFile" : "C:/Users/erikm/Documents/FPGAprosjekter/VGA_640x480_60Hz/src/top.vhd",
+  "InstLine" : 4,
+  "InstName" : "top",
+  "ModuleFile" : "C:/Users/erikm/Documents/FPGAprosjekter/VGA_640x480_60Hz/src/top.vhd",
+  "ModuleLine" : 4,
+  "ModuleName" : "top",
+  "SubInsts" : [
+   {
+    "InstFile" : "C:/Users/erikm/Documents/FPGAprosjekter/VGA_640x480_60Hz/src/top.vhd",
+    "InstLine" : 55,
+    "InstName" : "u_pll",
+    "ModuleFile" : "C:/Users/erikm/Documents/FPGAprosjekter/VGA_640x480_60Hz/src/gowin_pll/gowin_pll.vhd",
+    "ModuleLine" : 13,
+    "ModuleName" : "Gowin_PLL"
+   },
+   {
+    "InstFile" : "C:/Users/erikm/Documents/FPGAprosjekter/VGA_640x480_60Hz/src/top.vhd",
+    "InstLine" : 62,
+    "InstName" : "u_vga",
+    "ModuleFile" : "C:/Users/erikm/Documents/FPGAprosjekter/VGA_640x480_60Hz/src/vga_640x480_60Hz.vhd",
+    "ModuleLine" : 29,
+    "ModuleName" : "VGA_DISPLAY"
+   }
+  ]
+ }
+]
