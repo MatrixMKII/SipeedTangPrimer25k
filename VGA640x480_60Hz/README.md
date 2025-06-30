@@ -1,8 +1,12 @@
 # VGA for Sipeed Tang Primer 25K
 
+<img src="https://raw.githubusercontent.com/MatrixMKII/SipeedTangPrimer25k/refs/heads/main/VGA640x480_60Hz/pics/TangPrimer25K.jpg" width="50%"/>
+
 This project contains VHDL code for implementing a VGA video adapter on the Tang Primer 25K FPGA development board.
 It is designed for use with either the Mouse Lab PMOD-VGA v1.1 or the Digilent PmodVGA adapter.
 The adapter uses connectors J5 and J6, which are the ones closest to the USB Type-A port.
+
+<img src="https://raw.githubusercontent.com/MatrixMKII/SipeedTangPrimer25k/refs/heads/main/VGA640x480_60Hz/pics/MuseLab-PMOD-VGA.webp" width="50%"/>
 
 Minimal VGA Implementation
 
