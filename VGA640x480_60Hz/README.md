@@ -41,5 +41,5 @@ Planned Features and Future Improvements:
 
 <img src="https://raw.githubusercontent.com/MatrixMKII/SipeedTangPrimer25k/refs/heads/main/VGA640x480_60Hz/pics/LCD_Screen.jpg" width="50%"/>
 
-###### Picture of testimage as shown on 4:3 LCD monitor with VGA input
+###### Picture of test image as shown on 4:3 LCD monitor with VGA input
 
