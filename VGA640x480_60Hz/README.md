@@ -20,7 +20,7 @@ The adapter uses connectors J5 and J6, which are the ones closest to the USB Typ
 
 This is a basic working implementation of VGA, providing only:
 
-   * Horizontal and vertical sync signals  + back- and front porch.
+   * Horizontal and vertical sync signals
    * Simple test pattern output
 
 Planned Features and Future Improvements:
@@ -29,8 +29,7 @@ Planned Features and Future Improvements:
    * Text generator for character display
    * SPI and/or I2C interface for communication with external devices
    * Intended for use with microcontrollers such as ESP32 or Arduino
-   * Any other additional enhancements to extend functionality
-
+   
 <br/><br/>
 
 <img src="https://raw.githubusercontent.com/MatrixMKII/SipeedTangPrimer25k/refs/heads/main/VGA640x480_60Hz/pics/adapterAndTang25K.jpg" width="50%"/>
