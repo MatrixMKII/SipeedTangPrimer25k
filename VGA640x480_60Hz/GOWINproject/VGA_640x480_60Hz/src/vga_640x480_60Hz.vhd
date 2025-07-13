@@ -129,7 +129,7 @@ begin
             B_OUT <= std_logic_vector(to_unsigned((x_block + y_block) mod 16, 4));
 
         else
-            -- Utenfor aktivt bildeområde → svart
+            -- Outside active display area
             R_OUT <= (others => '0');
             G_OUT <= (others => '0');
             B_OUT <= (others => '0');
