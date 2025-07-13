@@ -53,7 +53,7 @@ architecture RTL of VGA_DISPLAY is
     constant V_WHOLE_FRAME   : integer := 525;
 
     -- Derived active display area
-    constant H_ACTIVE_START  : integer := H_SYNC_PULSE + H_BACK_PORCH; --add 16 if off
+    constant H_ACTIVE_START  : integer := H_SYNC_PULSE + H_BACK_PORCH;
     constant H_ACTIVE_END    : integer := H_ACTIVE_START + H_VISIBLE_AREA;
 
     constant V_ACTIVE_START  : integer := V_SYNC_PULSE + V_BACK_PORCH;
